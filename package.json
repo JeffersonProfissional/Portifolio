@@ -1,0 +1,22 @@
+{
+  "name": "portifolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JeffersonProfissional/Portifolio.git"
+  },
+  "keywords": [
+    "Portifolio"
+  ],
+  "author": "Jefferson Nascimento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffersonProfissional/Portifolio/issues"
+  },
+  "homepage": "https://github.com/JeffersonProfissional/Portifolio#readme"
+}
